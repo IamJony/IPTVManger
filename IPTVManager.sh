@@ -3,7 +3,7 @@
 # Script: iptv_manager.sh
 # Descripción: CLI interactiva para descargar canales IPTV por país
 # Autor: IamJony https://github.com/IamJony
-# Repositorio: https://github.com/IamJony/iptv-tools
+# Repositorio: https://github.com/IamJony/IPTVManger
 # Licencia: MIT
 # ============================================================
 
@@ -396,7 +396,7 @@ main() {
     echo -e "${GREEN}PROCESO COMPLETADO${NC}"
     echo -e "${CYAN}Todos los archivos guardados en: ${WHITE}$WORK_DIR${NC}"
     echo -e "${YELLOW}Puedes usar la lista M3U en VLC, Kodi, etc.${NC}"
-    echo -e "${PURPLE}Repositorio: https://github.com/IamJony/iptv-tools${NC}"
+    echo -e "${PURPLE}Repositorio: https://github.com/IamJony/IPTVManger${NC}"
     echo ""
     
     # Limpiar archivos temporales
